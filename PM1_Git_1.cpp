@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello VisualStudio Git!\n";
+    std::cout << "Hello  Git!\n";
 
     std::cout << "Conflict changed \n";
 }
